@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{fa4e4638-3a50-4fb1-8e53-c5d488d49c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physic">
+      <UniqueIdentifier>{77694497-c2c3-40e8-a43c-37f78a94abfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGL_cpp">
+      <UniqueIdentifier>{82127dd5-b03c-4f97-b4a9-0c2ce0329e1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGL_h">
+      <UniqueIdentifier>{2b2f8699-40da-4345-b0da-eaa9e4406b5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Font">
+      <UniqueIdentifier>{4fd67fc2-3109-47a2-ac8e-77f2b986cc63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="small.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Gravitation 2.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Logo.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Gravitation 2.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Physic</Filter>
+    </ClInclude>
+    <ClInclude Include="glelements_and_texture.h">
+      <Filter>OGL_h</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>OGL_h</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Font</Filter>
+    </ClInclude>
+    <ClInclude Include="ft2build.h">
+      <Filter>Font</Filter>
+    </ClInclude>
+    <ClInclude Include="main_ogl.h">
+      <Filter>Файлы исходного кода</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="Gravitation 2.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>Physic</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>OGL_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="glelements_and_texture.cpp">
+      <Filter>OGL_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="init.cpp">
+      <Filter>OGL_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>Font</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Gravitation 2.rc">
+      <Filter>Файлы ресурсов</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,37 @@
+﻿Построение начато 06.06.2012 9:45:27.
+     1>Проект "C:\Users\Telhar\Desktop\Gravitation 2.12.2\Gravitation 2\Gravitation 2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Gravitation 2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Gravitation 2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Gravitation 2.cpp"
+         Gravitation 2.cpp
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Telhar\Desktop\Gravitation 2.12.2\Debug\Gravitation 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Gravitation 2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Telhar\Desktop\Gravitation 2.12.2\Debug\Gravitation 2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Telhar\Desktop\Gravitation 2.12.2\Debug\Gravitation 2.lib" /MACHINE:X86 "Debug\Gravitation 2.res"
+         "Debug\Gravitation 2.exe.embed.manifest.res"
+         Debug\camera.obj
+         Debug\font.obj
+         Debug\glelements_and_texture.obj
+         "Debug\Gravitation 2.obj"
+         Debug\init.obj
+         Debug\Interface.obj
+         Debug\Physics.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Gravitation 2.exe.embed.manifest" /manifest "Debug\Gravitation 2.exe.intermediate.manifest"
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Gravitation 2.vcxproj -> C:\Users\Telhar\Desktop\Gravitation 2.12.2\Debug\Gravitation 2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Gravitation 2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Gravitation 2.lastbuildstate".
+     1>Построение проекта "C:\Users\Telhar\Desktop\Gravitation 2.12.2\Gravitation 2\Gravitation 2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.59

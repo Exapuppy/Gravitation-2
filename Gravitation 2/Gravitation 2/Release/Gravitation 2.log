@@ -1,0 +1,118 @@
+﻿Построение начато 03.07.2012 23:51:47.
+     1>Проект "D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Gravitation 2\Gravitation 2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\Gravitation 2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Imsvcp100.dll /Imsvcr100.dll /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Gravitation 2.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Imsvcp100.dll /Imsvcr100.dll /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Gravitation 2.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp font.cpp glelements_and_texture.cpp "Gravitation 2.cpp" init.cpp Interface.cpp Physics.cpp
+         camera.cpp
+         font.cpp
+         glelements_and_texture.cpp
+         Gravitation 2.cpp
+         init.cpp
+         Interface.cpp
+     1>d:\projects\gravitation 2 - sppo modification\gravitation 2. final(-___-)\gravitation 2\Interface.h(86): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\projects\gravitation 2 - sppo modification\gravitation 2. final(-___-)\gravitation 2\Interface.h(86): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+         Physics.cpp
+     1>Physics.cpp(201): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(205): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(206): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(212): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(214): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(218): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(219): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(225): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(227): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(231): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(232): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(238): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(240): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(244): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(245): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(251): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(253): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(257): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(258): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(264): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(266): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(270): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(271): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(277): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(279): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(283): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(284): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(290): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(292): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(296): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(297): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(303): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(305): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(310): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(311): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(312): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(313): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(334): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(335): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(336): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(337): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(338): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(339): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(340): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(341): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(342): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(343): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(344): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(345): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(346): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(347): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(348): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(349): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(350): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(351): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Physics.cpp(353): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(354): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(355): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(356): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(357): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(358): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(359): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(360): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(361): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(362): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(367): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(368): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(375): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(376): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(377): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(378): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(379): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(380): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(381): warning C4305: =: усечение из "double" к "float"
+     1>Physics.cpp(383): warning C4305: =: усечение из "double" к "float"
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Release\Gravitation 2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Gravitation 2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Release\Gravitation 2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Release\Gravitation 2.lib" /MACHINE:X86 "Release\Gravitation 2.res"
+         Release\camera.obj
+         Release\font.obj
+         Release\glelements_and_texture.obj
+         "Release\Gravitation 2.obj"
+         Release\init.obj
+         Release\Interface.obj
+         Release\Physics.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         Gravitation 2.vcxproj -> D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Release\Gravitation 2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Release\Gravitation 2.exe;#1" /manifest "Release\Gravitation 2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\Gravitation 2.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Gravitation 2.lastbuildstate".
+     1>Построение проекта "D:\Projects\Gravitation 2 - SPPO Modification\Gravitation 2. Final(-___-)\Gravitation 2\Gravitation 2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.70
